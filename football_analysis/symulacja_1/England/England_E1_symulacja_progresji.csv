@@ -1,0 +1,265 @@
+Season,Scenario,Team,Matches To 50% Mark,Games In Progression,Outcome,Profit/Loss (Units),Max Capital Needed (Units)
+2024-2025,Lowest Draw %,Watford,23,3,Win,2.0,2
+2024-2025,Lowest Draw %,Luton,23,4,Win,2.0,3
+2024-2025,Lowest Draw %,Sheffield United,23,1,Win,2.0,1
+2024-2025,Longest Unbeaten Streak,Burnley,23,1,Win,2.0,1
+2024-2025,Longest Unbeaten Streak,Leeds,23,2,Win,1.0,1
+2024-2025,Longest Unbeaten Streak,Sunderland,23,4,Win,2.0,3
+2024-2025,Highest Loss %,Plymouth,23,1,Win,2.0,1
+2024-2025,Highest Loss %,Luton,23,4,Win,2.0,3
+2024-2025,Highest Loss %,Hull,23,3,Win,2.0,2
+2024-2025,Highest Win %,Sheffield United,23,1,Win,2.0,1
+2024-2025,Highest Win %,Leeds,23,2,Win,1.0,1
+2024-2025,Highest Win %,Burnley,23,1,Win,2.0,1
+2023-2024,Lowest Draw %,Blackburn,23,3,Win,2.0,2
+2023-2024,Lowest Draw %,Leicester,23,1,Win,2.0,1
+2023-2024,Lowest Draw %,Cardiff,23,1,Win,2.0,1
+2023-2024,Longest Unbeaten Streak,Southampton,23,3,Win,2.0,2
+2023-2024,Longest Unbeaten Streak,Leicester,23,1,Win,2.0,1
+2023-2024,Longest Unbeaten Streak,Norwich,23,3,Win,2.0,2
+2023-2024,Highest Loss %,Sheffield Weds,23,6,Win,4.0,8
+2023-2024,Highest Loss %,Rotherham,23,2,Win,1.0,1
+2023-2024,Highest Loss %,QPR,23,2,Win,1.0,1
+2023-2024,Highest Win %,Leicester,23,1,Win,2.0,1
+2023-2024,Highest Win %,Ipswich,23,1,Win,2.0,1
+2023-2024,Highest Win %,Southampton,23,3,Win,2.0,2
+2022-2023,Lowest Draw %,Blackburn,23,5,Win,3.0,5
+2022-2023,Lowest Draw %,Reading,23,2,Win,1.0,1
+2022-2023,Lowest Draw %,QPR,23,1,Win,2.0,1
+2022-2023,Longest Unbeaten Streak,Watford,23,5,Win,3.0,5
+2022-2023,Longest Unbeaten Streak,Burnley,23,8,Win,9.0,21
+2022-2023,Longest Unbeaten Streak,Sheffield United,23,3,Win,2.0,2
+2022-2023,Highest Loss %,Huddersfield,23,3,Win,2.0,2
+2022-2023,Highest Loss %,Blackpool,23,1,Win,2.0,1
+2022-2023,Highest Loss %,Reading,23,2,Win,1.0,1
+2022-2023,Highest Win %,Burnley,23,8,Win,9.0,21
+2022-2023,Highest Win %,Sheffield United,23,3,Win,2.0,2
+2022-2023,Highest Win %,Blackburn,23,5,Win,3.0,5
+2021-2022,Lowest Draw %,Reading,23,8,Win,9.0,21
+2021-2022,Lowest Draw %,Cardiff,23,1,Win,2.0,1
+2021-2022,Lowest Draw %,Peterboro,23,3,Win,2.0,2
+2021-2022,Longest Unbeaten Streak,Nott'm Forest,23,8,Win,9.0,21
+2021-2022,Longest Unbeaten Streak,Blackburn,23,2,Win,1.0,1
+2021-2022,Longest Unbeaten Streak,West Brom,23,2,Win,1.0,1
+2021-2022,Highest Loss %,Peterboro,23,3,Win,2.0,2
+2021-2022,Highest Loss %,Cardiff,23,1,Win,2.0,1
+2021-2022,Highest Loss %,Barnsley,23,12,Win,56.0,144
+2021-2022,Highest Win %,Fulham,23,5,Win,3.0,5
+2021-2022,Highest Win %,Bournemouth,23,10,Win,22.0,55
+2021-2022,Highest Win %,Blackburn,23,2,Win,1.0,1
+2020-2021,Lowest Draw %,Preston,23,3,Win,2.0,2
+2020-2021,Lowest Draw %,Bristol City,23,14,Win,145.0,377
+2020-2021,Lowest Draw %,Huddersfield,23,4,Win,2.0,3
+2020-2021,Longest Unbeaten Streak,Brentford,23,1,Win,2.0,1
+2020-2021,Longest Unbeaten Streak,Nott'm Forest,23,3,Win,2.0,2
+2020-2021,Longest Unbeaten Streak,Sheffield Weds,23,13,Win,90.0,233
+2020-2021,Highest Loss %,Wycombe,23,2,Win,1.0,1
+2020-2021,Highest Loss %,Derby,23,9,Win,14.0,34
+2020-2021,Highest Loss %,Rotherham,23,14,Win,145.0,377
+2020-2021,Highest Win %,Norwich,23,3,Win,2.0,2
+2020-2021,Highest Win %,Swansea,23,2,Win,1.0,1
+2020-2021,Highest Win %,Reading,23,2,Win,1.0,1
+2019-2020,Lowest Draw %,Luton,23,1,Win,2.0,1
+2019-2020,Lowest Draw %,Stoke,23,4,Win,2.0,3
+2019-2020,Lowest Draw %,Brentford,23,5,Win,3.0,5
+2019-2020,Longest Unbeaten Streak,West Brom,23,1,Win,2.0,1
+2019-2020,Longest Unbeaten Streak,Blackburn,23,1,Win,2.0,1
+2019-2020,Longest Unbeaten Streak,Sheffield Weds,23,7,Win,6.0,13
+2019-2020,Highest Loss %,Luton,23,1,Win,2.0,1
+2019-2020,Highest Loss %,Stoke,23,4,Win,2.0,3
+2019-2020,Highest Loss %,Barnsley,23,1,Win,2.0,1
+2019-2020,Highest Win %,West Brom,23,1,Win,2.0,1
+2019-2020,Highest Win %,Leeds,23,1,Win,2.0,1
+2019-2020,Highest Win %,Sheffield Weds,23,7,Win,6.0,13
+2018-2019,Lowest Draw %,QPR,23,2,Win,1.0,1
+2018-2019,Lowest Draw %,Wigan,23,2,Win,1.0,1
+2018-2019,Lowest Draw %,Swansea,23,2,Win,1.0,1
+2018-2019,Longest Unbeaten Streak,Norwich,23,1,Win,2.0,1
+2018-2019,Longest Unbeaten Streak,Stoke,23,2,Win,1.0,1
+2018-2019,Longest Unbeaten Streak,West Brom,23,2,Win,1.0,1
+2018-2019,Highest Loss %,Bolton,23,2,Win,1.0,1
+2018-2019,Highest Loss %,Reading,23,2,Win,1.0,1
+2018-2019,Highest Loss %,Wigan,23,2,Win,1.0,1
+2018-2019,Highest Win %,Norwich,23,1,Win,2.0,1
+2018-2019,Highest Win %,Leeds,23,8,Win,9.0,21
+2018-2019,Highest Win %,West Brom,23,2,Win,1.0,1
+2017-2018,Lowest Draw %,Nott'm Forest,23,3,Win,2.0,2
+2017-2018,Lowest Draw %,Sheffield United,23,3,Win,2.0,2
+2017-2018,Lowest Draw %,Ipswich,23,1,Win,2.0,1
+2017-2018,Longest Unbeaten Streak,Wolves,23,1,Win,2.0,1
+2017-2018,Longest Unbeaten Streak,Preston,23,1,Win,2.0,1
+2017-2018,Longest Unbeaten Streak,Bristol City,23,5,Win,3.0,5
+2017-2018,Highest Loss %,Birmingham,23,5,Win,3.0,5
+2017-2018,Highest Loss %,Burton,23,2,Win,1.0,1
+2017-2018,Highest Loss %,Nott'm Forest,23,3,Win,2.0,2
+2017-2018,Highest Win %,Wolves,23,1,Win,2.0,1
+2017-2018,Highest Win %,Cardiff,23,5,Win,3.0,5
+2017-2018,Highest Win %,Derby,23,1,Win,2.0,1
+2016-2017,Lowest Draw %,Newcastle,23,5,Win,3.0,5
+2016-2017,Lowest Draw %,Leeds,23,1,Win,2.0,1
+2016-2017,Lowest Draw %,Bristol City,23,5,Win,3.0,5
+2016-2017,Longest Unbeaten Streak,Brighton,23,6,Win,4.0,8
+2016-2017,Longest Unbeaten Streak,Derby,23,1,Win,2.0,1
+2016-2017,Longest Unbeaten Streak,Fulham,23,3,Win,2.0,2
+2016-2017,Highest Loss %,Rotherham,23,8,Win,9.0,21
+2016-2017,Highest Loss %,Blackburn,23,1,Win,2.0,1
+2016-2017,Highest Loss %,Wigan,23,1,Win,2.0,1
+2016-2017,Highest Win %,Newcastle,23,5,Win,3.0,5
+2016-2017,Highest Win %,Brighton,23,6,Win,4.0,8
+2016-2017,Highest Win %,Huddersfield,23,1,Win,2.0,1
+2015-2016,Lowest Draw %,Rotherham,23,5,Win,3.0,5
+2015-2016,Lowest Draw %,Milton Keynes Dons,23,2,Win,1.0,1
+2015-2016,Lowest Draw %,Middlesbrough,23,5,Win,3.0,5
+2015-2016,Longest Unbeaten Streak,Middlesbrough,23,5,Win,3.0,5
+2015-2016,Longest Unbeaten Streak,Derby,23,1,Win,2.0,1
+2015-2016,Longest Unbeaten Streak,Nott'm Forest,23,1,Win,2.0,1
+2015-2016,Highest Loss %,Rotherham,23,5,Win,3.0,5
+2015-2016,Highest Loss %,Milton Keynes Dons,23,2,Win,1.0,1
+2015-2016,Highest Loss %,Charlton,23,2,Win,1.0,1
+2015-2016,Highest Win %,Middlesbrough,23,5,Win,3.0,5
+2015-2016,Highest Win %,Hull,23,8,Win,9.0,21
+2015-2016,Highest Win %,Derby,23,1,Win,2.0,1
+2014-2015,Lowest Draw %,Fulham,23,6,Win,4.0,8
+2014-2015,Lowest Draw %,Brentford,23,13,Win,90.0,233
+2014-2015,Lowest Draw %,Reading,23,2,Win,1.0,1
+2014-2015,Longest Unbeaten Streak,Bournemouth,23,7,Win,6.0,13
+2014-2015,Longest Unbeaten Streak,Ipswich,23,5,Win,3.0,5
+2014-2015,Longest Unbeaten Streak,Bolton,23,2,Win,1.0,1
+2014-2015,Highest Loss %,Blackpool,23,1,Win,2.0,1
+2014-2015,Highest Loss %,Reading,23,2,Win,1.0,1
+2014-2015,Highest Loss %,Leeds,23,2,Win,1.0,1
+2014-2015,Highest Win %,Bournemouth,23,7,Win,6.0,13
+2014-2015,Highest Win %,Brentford,23,13,Win,90.0,233
+2014-2015,Highest Win %,Middlesbrough,23,1,Win,2.0,1
+2013-2014,Lowest Draw %,Leicester,23,7,Win,6.0,13
+2013-2014,Lowest Draw %,Yeovil,23,6,Win,4.0,8
+2013-2014,Lowest Draw %,Leeds,23,4,Win,2.0,3
+2013-2014,Longest Unbeaten Streak,Birmingham,23,1,Win,2.0,1
+2013-2014,Longest Unbeaten Streak,Derby,23,4,Win,2.0,3
+2013-2014,Longest Unbeaten Streak,Ipswich,23,1,Win,2.0,1
+2013-2014,Highest Loss %,Yeovil,23,6,Win,4.0,8
+2013-2014,Highest Loss %,Barnsley,23,1,Win,2.0,1
+2013-2014,Highest Loss %,Doncaster,23,4,Win,2.0,3
+2013-2014,Highest Win %,Leicester,23,7,Win,6.0,13
+2013-2014,Highest Win %,Derby,23,4,Win,2.0,3
+2013-2014,Highest Win %,QPR,23,5,Win,3.0,5
+2012-2013,Lowest Draw %,Peterboro,23,5,Win,3.0,5
+2012-2013,Lowest Draw %,Cardiff,23,4,Win,2.0,3
+2012-2013,Lowest Draw %,Hull,23,1,Win,2.0,1
+2012-2013,Longest Unbeaten Streak,Crystal Palace,23,2,Win,1.0,1
+2012-2013,Longest Unbeaten Streak,Hull,23,1,Win,2.0,1
+2012-2013,Longest Unbeaten Streak,Brighton,23,4,Win,2.0,3
+2012-2013,Highest Loss %,Peterboro,23,5,Win,3.0,5
+2012-2013,Highest Loss %,Bristol City,23,12,Win,56.0,144
+2012-2013,Highest Loss %,Sheffield Weds,23,2,Win,1.0,1
+2012-2013,Highest Win %,Cardiff,23,4,Win,2.0,3
+2012-2013,Highest Win %,Hull,23,1,Win,2.0,1
+2012-2013,Highest Win %,Middlesbrough,23,10,Win,22.0,55
+2011-2012,Lowest Draw %,Hull,23,5,Win,3.0,5
+2011-2012,Lowest Draw %,Nott'm Forest,23,6,Win,4.0,8
+2011-2012,Lowest Draw %,Burnley,23,4,Win,2.0,3
+2011-2012,Longest Unbeaten Streak,Watford,23,7,Win,6.0,13
+2011-2012,Longest Unbeaten Streak,Blackpool,23,3,Win,2.0,2
+2011-2012,Longest Unbeaten Streak,Middlesbrough,23,1,Win,2.0,1
+2011-2012,Highest Loss %,Nott'm Forest,23,6,Win,4.0,8
+2011-2012,Highest Loss %,Doncaster,23,3,Win,2.0,2
+2011-2012,Highest Loss %,Coventry,23,12,Win,56.0,144
+2011-2012,Highest Win %,Southampton,23,5,Win,3.0,5
+2011-2012,Highest Win %,West Ham,23,7,Win,6.0,13
+2011-2012,Highest Win %,Middlesbrough,23,1,Win,2.0,1
+2010-2011,Lowest Draw %,Scunthorpe,23,2,Win,1.0,1
+2010-2011,Lowest Draw %,Middlesbrough,23,1,Win,2.0,1
+2010-2011,Lowest Draw %,Derby,23,2,Win,1.0,1
+2010-2011,Longest Unbeaten Streak,Leeds,23,1,Win,2.0,1
+2010-2011,Longest Unbeaten Streak,Reading,23,4,Win,2.0,3
+2010-2011,Longest Unbeaten Streak,Hull,23,4,Win,2.0,3
+2010-2011,Highest Loss %,Scunthorpe,23,2,Win,1.0,1
+2010-2011,Highest Loss %,Preston,23,2,Win,1.0,1
+2010-2011,Highest Loss %,Crystal Palace,23,4,Win,2.0,3
+2010-2011,Highest Win %,QPR,23,2,Win,1.0,1
+2010-2011,Highest Win %,Cardiff,23,3,Win,2.0,2
+2010-2011,Highest Win %,Leeds,23,1,Win,2.0,1
+2009-2010,Lowest Draw %,Plymouth,23,7,Win,6.0,13
+2009-2010,Lowest Draw %,Derby,23,1,Win,2.0,1
+2009-2010,Lowest Draw %,Cardiff,23,1,Win,2.0,1
+2009-2010,Longest Unbeaten Streak,Nott'm Forest,23,18,Win,988.0,2584
+2009-2010,Longest Unbeaten Streak,Newcastle,23,1,Win,2.0,1
+2009-2010,Longest Unbeaten Streak,Reading,23,13,Win,90.0,233
+2009-2010,Highest Loss %,Plymouth,23,7,Win,6.0,13
+2009-2010,Highest Loss %,Peterboro,23,1,Win,2.0,1
+2009-2010,Highest Loss %,Sheffield Weds,23,13,Win,90.0,233
+2009-2010,Highest Win %,Newcastle,23,1,Win,2.0,1
+2009-2010,Highest Win %,West Brom,23,2,Win,1.0,1
+2009-2010,Highest Win %,Cardiff,23,1,Win,2.0,1
+2008-2009,Lowest Draw %,Wolves,23,2,Win,1.0,1
+2008-2009,Lowest Draw %,Preston,23,3,Win,2.0,2
+2008-2009,Lowest Draw %,Barnsley,23,3,Win,2.0,2
+2008-2009,Longest Unbeaten Streak,Crystal Palace,23,1,Win,2.0,1
+2008-2009,Longest Unbeaten Streak,Sheffield Weds,23,2,Win,1.0,1
+2008-2009,Longest Unbeaten Streak,Swansea,23,1,Win,2.0,1
+2008-2009,Highest Loss %,Charlton,23,2,Win,1.0,1
+2008-2009,Highest Loss %,Doncaster,23,6,Win,4.0,8
+2008-2009,Highest Loss %,Barnsley,23,3,Win,2.0,2
+2008-2009,Highest Win %,Wolves,23,2,Win,1.0,1
+2008-2009,Highest Win %,Birmingham,23,3,Win,2.0,2
+2008-2009,Highest Win %,Reading,23,2,Win,1.0,1
+2007-2008,Lowest Draw %,Watford,23,1,Win,2.0,1
+2007-2008,Lowest Draw %,Southampton,23,1,Win,2.0,1
+2007-2008,Lowest Draw %,Norwich,23,1,Win,2.0,1
+2007-2008,Longest Unbeaten Streak,Crystal Palace,23,3,Win,2.0,2
+2007-2008,Longest Unbeaten Streak,Stoke,23,1,Win,2.0,1
+2007-2008,Longest Unbeaten Streak,Bristol City,23,4,Win,2.0,3
+2007-2008,Highest Loss %,Norwich,23,1,Win,2.0,1
+2007-2008,Highest Loss %,Sheffield Weds,23,8,Win,9.0,21
+2007-2008,Highest Loss %,Preston,23,10,Win,22.0,55
+2007-2008,Highest Win %,Watford,23,1,Win,2.0,1
+2007-2008,Highest Win %,West Brom,23,5,Win,3.0,5
+2007-2008,Highest Win %,Charlton,23,1,Win,2.0,1
+2006-2007,Lowest Draw %,Leeds,23,1,Win,2.0,1
+2006-2007,Lowest Draw %,Coventry,23,3,Win,2.0,2
+2006-2007,Lowest Draw %,Birmingham,23,3,Win,2.0,2
+2006-2007,Longest Unbeaten Streak,Sunderland,23,7,Win,6.0,13
+2006-2007,Longest Unbeaten Streak,Colchester,23,5,Win,3.0,5
+2006-2007,Longest Unbeaten Streak,West Brom,23,1,Win,2.0,1
+2006-2007,Highest Loss %,Leeds,23,1,Win,2.0,1
+2006-2007,Highest Loss %,Hull,23,1,Win,2.0,1
+2006-2007,Highest Loss %,Southend,23,2,Win,1.0,1
+2006-2007,Highest Win %,Birmingham,23,3,Win,2.0,2
+2006-2007,Highest Win %,Derby,23,1,Win,2.0,1
+2006-2007,Highest Win %,Cardiff,23,1,Win,2.0,1
+2005-2006,Lowest Draw %,Stoke,23,5,Win,3.0,5
+2005-2006,Lowest Draw %,Sheffield United,23,1,Win,2.0,1
+2005-2006,Lowest Draw %,Luton,23,2,Win,1.0,1
+2005-2006,Longest Unbeaten Streak,Reading,23,4,Win,2.0,3
+2005-2006,Longest Unbeaten Streak,Preston,23,1,Win,2.0,1
+2005-2006,Longest Unbeaten Streak,Watford,23,3,Win,2.0,2
+2005-2006,Highest Loss %,Crewe,23,1,Win,2.0,1
+2005-2006,Highest Loss %,Millwall,23,2,Win,1.0,1
+2005-2006,Highest Loss %,Sheffield Weds,23,2,Win,1.0,1
+2005-2006,Highest Win %,Reading,23,4,Win,2.0,3
+2005-2006,Highest Win %,Sheffield United,23,1,Win,2.0,1
+2005-2006,Highest Win %,Leeds,23,7,Win,6.0,13
+2003-2004,Lowest Draw %,Wimbledon,23,3,Win,2.0,2
+2003-2004,Lowest Draw %,Reading,23,3,Win,2.0,2
+2003-2004,Lowest Draw %,Crewe,23,3,Win,2.0,2
+2003-2004,Longest Unbeaten Streak,West Brom,23,2,Win,1.0,1
+2003-2004,Longest Unbeaten Streak,Rotherham,23,5,Win,3.0,5
+2003-2004,Longest Unbeaten Streak,Ipswich,23,4,Win,2.0,3
+2003-2004,Highest Loss %,Wimbledon,23,3,Win,2.0,2
+2003-2004,Highest Loss %,Bradford,23,14,Win,145.0,377
+2003-2004,Highest Loss %,Stoke,23,2,Win,1.0,1
+2003-2004,Highest Win %,West Brom,23,2,Win,1.0,1
+2003-2004,Highest Win %,Norwich,23,5,Win,3.0,5
+2003-2004,Highest Win %,Sheffield United,23,2,Win,1.0,1
+2001-2002,Lowest Draw %,Crystal Palace,23,2,Win,1.0,1
+2001-2002,Lowest Draw %,West Brom,23,1,Win,2.0,1
+2001-2002,Lowest Draw %,Norwich,23,5,Win,3.0,5
+2001-2002,Longest Unbeaten Streak,Burnley,23,2,Win,1.0,1
+2001-2002,Longest Unbeaten Streak,Gillingham,23,8,Win,9.0,21
+2001-2002,Longest Unbeaten Streak,Sheffield United,23,1,Win,2.0,1
+2001-2002,Highest Loss %,Stockport,23,7,Win,6.0,13
+2001-2002,Highest Loss %,Walsall,23,5,Win,3.0,5
+2001-2002,Highest Loss %,Grimsby,23,2,Win,1.0,1
+2001-2002,Highest Win %,Burnley,23,2,Win,1.0,1
+2001-2002,Highest Win %,West Brom,23,1,Win,2.0,1
+2001-2002,Highest Win %,Man City,23,2,Win,1.0,1

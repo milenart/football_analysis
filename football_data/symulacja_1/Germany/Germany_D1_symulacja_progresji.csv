@@ -1,0 +1,265 @@
+Season,Scenario,Team,Matches To 50% Mark,Games In Progression,Outcome,Profit/Loss (Units),Max Capital Needed (Units)
+2024-2025,Lowest Draw %,Holstein Kiel,17,2,Win,1.0,1
+2024-2025,Lowest Draw %,Bochum,17,1,Win,2.0,1
+2024-2025,Lowest Draw %,Heidenheim,17,6,Win,4.0,8
+2024-2025,Longest Unbeaten Streak,Leverkusen,17,2,Win,1.0,1
+2024-2025,Longest Unbeaten Streak,Bayern Munich,17,5,Win,3.0,5
+2024-2025,Longest Unbeaten Streak,Heidenheim,17,6,Win,4.0,8
+2024-2025,Highest Loss %,Bochum,17,1,Win,2.0,1
+2024-2025,Highest Loss %,Holstein Kiel,17,2,Win,1.0,1
+2024-2025,Highest Loss %,Heidenheim,17,6,Win,4.0,8
+2024-2025,Highest Win %,Bayern Munich,17,5,Win,3.0,5
+2024-2025,Highest Win %,Leverkusen,17,2,Win,1.0,1
+2024-2025,Highest Win %,Ein Frankfurt,17,2,Win,1.0,1
+2023-2024,Lowest Draw %,Stuttgart,17,6,Win,4.0,8
+2023-2024,Lowest Draw %,Bayern Munich,17,7,Win,6.0,13
+2023-2024,Lowest Draw %,Wolfsburg,17,1,Win,2.0,1
+2023-2024,Longest Unbeaten Streak,Leverkusen,17,2,Win,1.0,1
+2023-2024,Longest Unbeaten Streak,Werder Bremen,17,6,Win,4.0,8
+2023-2024,Longest Unbeaten Streak,Heidenheim,17,1,Win,2.0,1
+2023-2024,Highest Loss %,Darmstadt,17,1,Win,2.0,1
+2023-2024,Highest Loss %,Union Berlin,17,3,Win,2.0,2
+2023-2024,Highest Loss %,FC Koln,17,2,Win,1.0,1
+2023-2024,Highest Win %,Leverkusen,17,2,Win,1.0,1
+2023-2024,Highest Win %,Bayern Munich,17,7,Win,6.0,13
+2023-2024,Highest Win %,Stuttgart,17,6,Win,4.0,8
+2022-2023,Lowest Draw %,Bochum,17,9,Win,14.0,34
+2022-2023,Lowest Draw %,Dortmund,17,7,Win,6.0,13
+2022-2023,Lowest Draw %,Union Berlin,17,4,Win,2.0,3
+2022-2023,Longest Unbeaten Streak,Bayern Munich,17,1,Win,2.0,1
+2022-2023,Longest Unbeaten Streak,RB Leipzig,17,2,Win,1.0,1
+2022-2023,Longest Unbeaten Streak,Wolfsburg,17,3,Win,2.0,2
+2022-2023,Highest Loss %,Schalke 04,17,1,Win,2.0,1
+2022-2023,Highest Loss %,Bochum,17,9,Win,14.0,34
+2022-2023,Highest Loss %,Hertha,17,7,Win,6.0,13
+2022-2023,Highest Win %,Bayern Munich,17,1,Win,2.0,1
+2022-2023,Highest Win %,Union Berlin,17,4,Win,2.0,3
+2022-2023,Highest Win %,Dortmund,17,7,Win,6.0,13
+2021-2022,Lowest Draw %,Bayern Munich,17,8,Win,9.0,21
+2021-2022,Lowest Draw %,Dortmund,17,7,Win,6.0,13
+2021-2022,Lowest Draw %,Bochum,17,3,Win,2.0,2
+2021-2022,Longest Unbeaten Streak,Hoffenheim,17,9,Win,14.0,34
+2021-2022,Longest Unbeaten Streak,Bayern Munich,17,8,Win,9.0,21
+2021-2022,Longest Unbeaten Streak,Ein Frankfurt,17,2,Win,1.0,1
+2021-2022,Highest Loss %,Greuther Furth,17,1,Win,2.0,1
+2021-2022,Highest Loss %,Wolfsburg,17,2,Win,1.0,1
+2021-2022,Highest Loss %,Bochum,17,3,Win,2.0,2
+2021-2022,Highest Win %,Bayern Munich,17,8,Win,9.0,21
+2021-2022,Highest Win %,Dortmund,17,7,Win,6.0,13
+2021-2022,Highest Win %,Leverkusen,17,1,Win,2.0,1
+2020-2021,Lowest Draw %,Bielefeld,17,3,Win,2.0,2
+2020-2021,Lowest Draw %,Dortmund,17,4,Win,2.0,3
+2020-2021,Lowest Draw %,Bayern Munich,17,4,Win,2.0,3
+2020-2021,Longest Unbeaten Streak,Ein Frankfurt,17,7,Win,6.0,13
+2020-2021,Longest Unbeaten Streak,M'gladbach,17,2,Win,1.0,1
+2020-2021,Longest Unbeaten Streak,Wolfsburg,17,4,Win,2.0,3
+2020-2021,Highest Loss %,Schalke 04,17,2,Win,1.0,1
+2020-2021,Highest Loss %,Mainz,17,4,Win,2.0,3
+2020-2021,Highest Loss %,Bielefeld,17,3,Win,2.0,2
+2020-2021,Highest Win %,Bayern Munich,17,4,Win,2.0,3
+2020-2021,Highest Win %,RB Leipzig,17,8,Win,9.0,21
+2020-2021,Highest Win %,Leverkusen,17,4,Win,2.0,3
+2019-2020,Lowest Draw %,Mainz,17,5,Win,3.0,5
+2019-2020,Lowest Draw %,FC Koln,17,9,Win,14.0,34
+2019-2020,Lowest Draw %,M'gladbach,17,3,Win,2.0,2
+2019-2020,Longest Unbeaten Streak,RB Leipzig,17,3,Win,2.0,2
+2019-2020,Longest Unbeaten Streak,Hertha,17,3,Win,2.0,2
+2019-2020,Longest Unbeaten Streak,Bayern Munich,17,4,Win,2.0,3
+2019-2020,Highest Loss %,Paderborn,17,4,Win,2.0,3
+2019-2020,Highest Loss %,Mainz,17,5,Win,3.0,5
+2019-2020,Highest Loss %,Fortuna Dusseldorf,17,3,Win,2.0,2
+2019-2020,Highest Win %,M'gladbach,17,3,Win,2.0,2
+2019-2020,Highest Win %,RB Leipzig,17,3,Win,2.0,2
+2019-2020,Highest Win %,Bayern Munich,17,4,Win,2.0,3
+2018-2019,Lowest Draw %,Stuttgart,17,3,Win,2.0,2
+2018-2019,Lowest Draw %,Bayern Munich,17,10,Win,22.0,55
+2018-2019,Lowest Draw %,Ein Frankfurt,17,2,Win,1.0,1
+2018-2019,Longest Unbeaten Streak,Hoffenheim,17,3,Win,2.0,2
+2018-2019,Longest Unbeaten Streak,Bayern Munich,17,10,Win,22.0,55
+2018-2019,Longest Unbeaten Streak,Wolfsburg,17,4,Win,2.0,3
+2018-2019,Highest Loss %,Stuttgart,17,3,Win,2.0,2
+2018-2019,Highest Loss %,Nurnberg,17,3,Win,2.0,2
+2018-2019,Highest Loss %,Hannover,17,13,Win,90.0,233
+2018-2019,Highest Win %,Dortmund,17,3,Win,2.0,2
+2018-2019,Highest Win %,Bayern Munich,17,10,Win,22.0,55
+2018-2019,Highest Win %,M'gladbach,17,5,Win,3.0,5
+2017-2018,Lowest Draw %,Bayern Munich,17,7,Win,6.0,13
+2017-2018,Lowest Draw %,Stuttgart,17,4,Win,2.0,3
+2017-2018,Lowest Draw %,Hamburg,17,3,Win,2.0,2
+2017-2018,Longest Unbeaten Streak,Leverkusen,17,4,Win,2.0,3
+2017-2018,Longest Unbeaten Streak,Schalke 04,17,2,Win,1.0,1
+2017-2018,Longest Unbeaten Streak,Freiburg,17,1,Win,2.0,1
+2017-2018,Highest Loss %,FC Koln,17,3,Win,2.0,2
+2017-2018,Highest Loss %,Hamburg,17,3,Win,2.0,2
+2017-2018,Highest Loss %,Stuttgart,17,4,Win,2.0,3
+2017-2018,Highest Win %,Bayern Munich,17,7,Win,6.0,13
+2017-2018,Highest Win %,M'gladbach,17,8,Win,9.0,21
+2017-2018,Highest Win %,RB Leipzig,17,3,Win,2.0,2
+2016-2017,Lowest Draw %,Freiburg,17,4,Win,2.0,3
+2016-2017,Lowest Draw %,Bayern Munich,17,2,Win,1.0,1
+2016-2017,Lowest Draw %,Schalke 04,17,2,Win,1.0,1
+2016-2017,Longest Unbeaten Streak,Hoffenheim,17,5,Win,3.0,5
+2016-2017,Longest Unbeaten Streak,Bayern Munich,17,2,Win,1.0,1
+2016-2017,Longest Unbeaten Streak,Dortmund,17,1,Win,2.0,1
+2016-2017,Highest Loss %,Darmstadt,17,17,Win,611.0,1597
+2016-2017,Highest Loss %,Ingolstadt,17,7,Win,6.0,13
+2016-2017,Highest Loss %,Hamburg,17,4,Win,2.0,3
+2016-2017,Highest Win %,Bayern Munich,17,2,Win,1.0,1
+2016-2017,Highest Win %,RB Leipzig,17,6,Win,4.0,8
+2016-2017,Highest Win %,Hertha,17,4,Win,2.0,3
+2015-2016,Lowest Draw %,Bayern Munich,17,3,Win,2.0,2
+2015-2016,Lowest Draw %,Hertha,17,1,Win,2.0,1
+2015-2016,Lowest Draw %,Dortmund,17,3,Win,2.0,2
+2015-2016,Longest Unbeaten Streak,Augsburg,17,1,Win,2.0,1
+2015-2016,Longest Unbeaten Streak,Hertha,17,1,Win,2.0,1
+2015-2016,Longest Unbeaten Streak,Stuttgart,17,5,Win,3.0,5
+2015-2016,Highest Loss %,Hannover,17,12,Win,56.0,144
+2015-2016,Highest Loss %,Werder Bremen,17,2,Win,1.0,1
+2015-2016,Highest Loss %,Stuttgart,17,5,Win,3.0,5
+2015-2016,Highest Win %,Bayern Munich,17,3,Win,2.0,2
+2015-2016,Highest Win %,Dortmund,17,3,Win,2.0,2
+2015-2016,Highest Win %,Hertha,17,1,Win,2.0,1
+2014-2015,Lowest Draw %,Augsburg,17,3,Win,2.0,2
+2014-2015,Lowest Draw %,Bayern Munich,17,2,Win,1.0,1
+2014-2015,Lowest Draw %,Hannover,17,2,Win,1.0,1
+2014-2015,Longest Unbeaten Streak,Bayern Munich,17,2,Win,1.0,1
+2014-2015,Longest Unbeaten Streak,Wolfsburg,17,2,Win,1.0,1
+2014-2015,Longest Unbeaten Streak,Leverkusen,17,1,Win,2.0,1
+2014-2015,Highest Loss %,Dortmund,17,1,Win,2.0,1
+2014-2015,Highest Loss %,Hertha,17,7,Win,6.0,13
+2014-2015,Highest Loss %,Stuttgart,17,2,Win,1.0,1
+2014-2015,Highest Win %,Bayern Munich,17,2,Win,1.0,1
+2014-2015,Highest Win %,Wolfsburg,17,2,Win,1.0,1
+2014-2015,Highest Win %,Augsburg,17,3,Win,2.0,2
+2013-2014,Lowest Draw %,Leverkusen,17,7,Win,6.0,13
+2013-2014,Lowest Draw %,Bayern Munich,17,11,Win,35.0,89
+2013-2014,Lowest Draw %,Braunschweig,17,1,Win,2.0,1
+2013-2014,Longest Unbeaten Streak,Bayern Munich,17,11,Win,35.0,89
+2013-2014,Longest Unbeaten Streak,Wolfsburg,17,8,Win,9.0,21
+2013-2014,Longest Unbeaten Streak,M'gladbach,17,4,Win,2.0,3
+2013-2014,Highest Loss %,Braunschweig,17,1,Win,2.0,1
+2013-2014,Highest Loss %,Hannover,17,6,Win,4.0,8
+2013-2014,Highest Loss %,Hamburg,17,7,Win,6.0,13
+2013-2014,Highest Win %,Bayern Munich,17,11,Win,35.0,89
+2013-2014,Highest Win %,Leverkusen,17,7,Win,6.0,13
+2013-2014,Highest Win %,M'gladbach,17,4,Win,2.0,3
+2012-2013,Lowest Draw %,Mainz,17,1,Win,2.0,1
+2012-2013,Lowest Draw %,Hannover,17,5,Win,3.0,5
+2012-2013,Lowest Draw %,Leverkusen,17,2,Win,1.0,1
+2012-2013,Longest Unbeaten Streak,Bayern Munich,17,15,Win,234.0,610
+2012-2013,Longest Unbeaten Streak,M'gladbach,17,1,Win,2.0,1
+2012-2013,Longest Unbeaten Streak,Freiburg,17,1,Win,2.0,1
+2012-2013,Highest Loss %,Hoffenheim,17,1,Win,2.0,1
+2012-2013,Highest Loss %,Augsburg,17,2,Win,1.0,1
+2012-2013,Highest Loss %,Greuther Furth,17,6,Win,4.0,8
+2012-2013,Highest Win %,Bayern Munich,17,15,Win,234.0,610
+2012-2013,Highest Win %,Leverkusen,17,2,Win,1.0,1
+2012-2013,Highest Win %,Ein Frankfurt,17,4,Win,2.0,3
+2011-2012,Lowest Draw %,Bayern Munich,17,3,Win,2.0,2
+2011-2012,Lowest Draw %,Schalke 04,17,3,Win,2.0,2
+2011-2012,Lowest Draw %,Wolfsburg,17,3,Win,2.0,2
+2011-2012,Longest Unbeaten Streak,Dortmund,17,8,Win,9.0,21
+2011-2012,Longest Unbeaten Streak,Hamburg,17,3,Win,2.0,2
+2011-2012,Longest Unbeaten Streak,Hannover,17,1,Win,2.0,1
+2011-2012,Highest Loss %,Freiburg,17,3,Win,2.0,2
+2011-2012,Highest Loss %,Wolfsburg,17,3,Win,2.0,2
+2011-2012,Highest Loss %,Nurnberg,17,4,Win,2.0,3
+2011-2012,Highest Win %,Bayern Munich,17,3,Win,2.0,2
+2011-2012,Highest Win %,Schalke 04,17,3,Win,2.0,2
+2011-2012,Highest Win %,M'gladbach,17,3,Win,2.0,2
+2010-2011,Lowest Draw %,Mainz,17,4,Win,2.0,3
+2010-2011,Lowest Draw %,Freiburg,17,1,Win,2.0,1
+2010-2011,Lowest Draw %,Hannover,17,5,Win,3.0,5
+2010-2011,Longest Unbeaten Streak,Leverkusen,17,7,Win,6.0,13
+2010-2011,Longest Unbeaten Streak,Wolfsburg,17,1,Win,2.0,1
+2010-2011,Longest Unbeaten Streak,Hoffenheim,17,2,Win,1.0,1
+2010-2011,Highest Loss %,M'gladbach,17,9,Win,14.0,34
+2010-2011,Highest Loss %,Stuttgart,17,2,Win,1.0,1
+2010-2011,Highest Loss %,FC Koln,17,1,Win,2.0,1
+2010-2011,Highest Win %,Dortmund,17,2,Win,1.0,1
+2010-2011,Highest Win %,Mainz,17,4,Win,2.0,3
+2010-2011,Highest Win %,Hannover,17,5,Win,3.0,5
+2009-2010,Lowest Draw %,Hertha,17,2,Win,1.0,1
+2009-2010,Lowest Draw %,Nurnberg,17,2,Win,1.0,1
+2009-2010,Lowest Draw %,M'gladbach,17,2,Win,1.0,1
+2009-2010,Longest Unbeaten Streak,Leverkusen,17,4,Win,2.0,3
+2009-2010,Longest Unbeaten Streak,Dortmund,17,11,Win,35.0,89
+2009-2010,Longest Unbeaten Streak,Bayern Munich,17,6,Win,4.0,8
+2009-2010,Highest Loss %,Hertha,17,2,Win,1.0,1
+2009-2010,Highest Loss %,Nurnberg,17,2,Win,1.0,1
+2009-2010,Highest Loss %,Bochum,17,2,Win,1.0,1
+2009-2010,Highest Win %,Schalke 04,17,2,Win,1.0,1
+2009-2010,Highest Win %,Leverkusen,17,4,Win,2.0,3
+2009-2010,Highest Win %,Bayern Munich,17,6,Win,4.0,8
+2008-2009,Lowest Draw %,Karlsruhe,17,3,Win,2.0,2
+2008-2009,Lowest Draw %,FC Koln,17,1,Win,2.0,1
+2008-2009,Lowest Draw %,Leverkusen,17,1,Win,2.0,1
+2008-2009,Longest Unbeaten Streak,Bayern Munich,17,5,Win,3.0,5
+2008-2009,Longest Unbeaten Streak,Dortmund,17,1,Win,2.0,1
+2008-2009,Longest Unbeaten Streak,Hamburg,17,13,Win,90.0,233
+2008-2009,Highest Loss %,M'gladbach,17,2,Win,1.0,1
+2008-2009,Highest Loss %,Karlsruhe,17,3,Win,2.0,2
+2008-2009,Highest Loss %,Cottbus,17,3,Win,2.0,2
+2008-2009,Highest Win %,Hoffenheim,17,2,Win,1.0,1
+2008-2009,Highest Win %,Bayern Munich,17,5,Win,3.0,5
+2008-2009,Highest Win %,Hamburg,17,13,Win,90.0,233
+2007-2008,Lowest Draw %,Stuttgart,17,7,Win,6.0,13
+2007-2008,Lowest Draw %,Duisburg,17,1,Win,2.0,1
+2007-2008,Lowest Draw %,Hertha,17,4,Win,2.0,3
+2007-2008,Longest Unbeaten Streak,Schalke 04,17,9,Win,14.0,34
+2007-2008,Longest Unbeaten Streak,Bayern Munich,17,2,Win,1.0,1
+2007-2008,Longest Unbeaten Streak,Cottbus,17,2,Win,1.0,1
+2007-2008,Highest Loss %,Duisburg,17,1,Win,2.0,1
+2007-2008,Highest Loss %,Hansa Rostock,17,2,Win,1.0,1
+2007-2008,Highest Loss %,Nurnberg,17,2,Win,1.0,1
+2007-2008,Highest Win %,Werder Bremen,17,2,Win,1.0,1
+2007-2008,Highest Win %,Bayern Munich,17,2,Win,1.0,1
+2007-2008,Highest Win %,Hamburg,17,1,Win,2.0,1
+2006-2007,Lowest Draw %,Bayern Munich,17,2,Win,1.0,1
+2006-2007,Lowest Draw %,Bochum,17,2,Win,1.0,1
+2006-2007,Lowest Draw %,Schalke 04,17,5,Win,3.0,5
+2006-2007,Longest Unbeaten Streak,Schalke 04,17,5,Win,3.0,5
+2006-2007,Longest Unbeaten Streak,Bayern Munich,17,2,Win,1.0,1
+2006-2007,Longest Unbeaten Streak,Nurnberg,17,2,Win,1.0,1
+2006-2007,Highest Loss %,M'gladbach,17,2,Win,1.0,1
+2006-2007,Highest Loss %,Bochum,17,2,Win,1.0,1
+2006-2007,Highest Loss %,Cottbus,17,2,Win,1.0,1
+2006-2007,Highest Win %,Schalke 04,17,5,Win,3.0,5
+2006-2007,Highest Win %,Werder Bremen,17,6,Win,4.0,8
+2006-2007,Highest Win %,Bayern Munich,17,2,Win,1.0,1
+2005-2006,Lowest Draw %,Bayern Munich,17,3,Win,2.0,2
+2005-2006,Lowest Draw %,FC Koln,17,2,Win,1.0,1
+2005-2006,Lowest Draw %,Ein Frankfurt,17,2,Win,1.0,1
+2005-2006,Longest Unbeaten Streak,Stuttgart,17,2,Win,1.0,1
+2005-2006,Longest Unbeaten Streak,Bayern Munich,17,3,Win,2.0,2
+2005-2006,Longest Unbeaten Streak,Hamburg,17,17,Loss,-4180.0,1597
+2005-2006,Highest Loss %,Kaiserslautern,17,2,Win,1.0,1
+2005-2006,Highest Loss %,FC Koln,17,2,Win,1.0,1
+2005-2006,Highest Loss %,Nurnberg,17,2,Win,1.0,1
+2005-2006,Highest Win %,Bayern Munich,17,3,Win,2.0,2
+2005-2006,Highest Win %,Hamburg,17,17,Loss,-4180.0,1597
+2005-2006,Highest Win %,Werder Bremen,17,3,Win,2.0,2
+2004-2005,Lowest Draw %,Wolfsburg,17,6,Win,4.0,8
+2004-2005,Lowest Draw %,Schalke 04,17,3,Win,2.0,2
+2004-2005,Lowest Draw %,Hamburg,17,10,Win,22.0,55
+2004-2005,Longest Unbeaten Streak,Hertha,17,1,Win,2.0,1
+2004-2005,Longest Unbeaten Streak,Bayern Munich,17,2,Win,1.0,1
+2004-2005,Longest Unbeaten Streak,Stuttgart,17,3,Win,2.0,2
+2004-2005,Highest Loss %,Freiburg,17,1,Win,2.0,1
+2004-2005,Highest Loss %,Hansa Rostock,17,1,Win,2.0,1
+2004-2005,Highest Loss %,Bochum,17,1,Win,2.0,1
+2004-2005,Highest Win %,Schalke 04,17,3,Win,2.0,2
+2004-2005,Highest Win %,Wolfsburg,17,6,Win,4.0,8
+2004-2005,Highest Win %,Bayern Munich,17,2,Win,1.0,1
+2001-2002,Lowest Draw %,Dortmund,17,1,Win,2.0,1
+2001-2002,Lowest Draw %,Kaiserslautern,17,4,Win,2.0,3
+2001-2002,Lowest Draw %,Leverkusen,17,6,Win,4.0,8
+2001-2002,Longest Unbeaten Streak,Hertha,17,1,Win,2.0,1
+2001-2002,Longest Unbeaten Streak,Dortmund,17,1,Win,2.0,1
+2001-2002,Longest Unbeaten Streak,Werder Bremen,17,6,Win,4.0,8
+2001-2002,Highest Loss %,St Pauli,17,1,Win,2.0,1
+2001-2002,Highest Loss %,Nurnberg,17,1,Win,2.0,1
+2001-2002,Highest Loss %,FC Koln,17,1,Win,2.0,1
+2001-2002,Highest Win %,Leverkusen,17,6,Win,4.0,8
+2001-2002,Highest Win %,Dortmund,17,1,Win,2.0,1
+2001-2002,Highest Win %,Kaiserslautern,17,4,Win,2.0,3
