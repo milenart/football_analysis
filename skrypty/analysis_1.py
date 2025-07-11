@@ -6,7 +6,7 @@ from pathlib import Path
 # --- SEKCJA KONFIGURACJI ---
 
 # 1. Ścieżka do głównego folderu z danymi
-BASE_PATH = Path("D:/football_data")
+BASE_PATH = Path("D:/football_all/football_data") 
 
 # 2. Folder, w którym będą zapisywane wyniki analizy
 # Zmieniamy to, aby było bardziej elastyczne
@@ -18,7 +18,7 @@ X_SEASONS = 5
 # 4. Struktura państw i lig
 COUNTRIES_LEAGUES = {
     "England": ["E0", "E1", "E2"],
-    "Germany": ["D1", "D2"], # Usunięto D3, gdyż często brakuje danych
+    "Germany": ["D1", "D2"],
     "Italy": ["I1", "I2"],
     "Spain": ["SP1", "SP2"],
     "France": ["F1", "F2"],
