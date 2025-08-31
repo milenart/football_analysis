@@ -35,13 +35,5 @@ The main objective is to identify patterns and characteristics of teams that can
 - Pandas / NumPy – data manipulation  
 - Matplotlib – visualization of patterns and results  
 
----
 
-## Project Status
-
-This is an exploratory academic project aimed at combining **sports knowledge** with **data analysis methods**.  
-Further improvements may include:  
-- Machine learning models for predictive accuracy  
-- Expanded dataset with more leagues and seasons  
-- Advanced statistical methods to refine draw prediction strategies  
 
